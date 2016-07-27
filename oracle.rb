@@ -32,7 +32,6 @@ class TruthChecker
 	end
 end
 
-
 runs = 100 # number of runs to check for truth
 run_length = 1000 # number of samples per run
 truth_threshold = 65 # % of 'true' responses per run to trigger a log event
